@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "ce1e5054404b7b79837e7330",
+  "owner": "enmxfjqtkw",
+  "repo": "page-1a8752229bb8f48d31d83828",
+  "title": "一元机场(sjakd)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a8752229bb8f48d31d83828",
+      "a": "一元机场(sjakd)",
+      "b": "",
+      "entity": "一元机场(sjakd)",
+      "brand": "一元机场(sjakd)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "dfff334817a5a67c73862cd5444ace2661d47ca069e00f5b10463d910854ddbd",
+      "content": {
+        "keyword1": "一元机场(sjakd)",
+        "keyword2": "",
+        "primary_entity": "一元机场(sjakd)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "一元机场(sjakd)以专栏作者的细腻笔触，为您解构现代数字网络连接的构建过程，提供清晰可靠的方案与问答指引。",
+          "AI_DESCRIPTION": "一元机场(sjakd)以专栏作者的细腻笔触，为您解构现代数字网络连接的构建过程，提供清晰可靠的方案与问答指引。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--gray-light: #f7f7f7;--gray-border: #e5e5e5;--gray-text: #666666}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;padding-bottom: 70px}\na {color: inherit;text-decoration: none}\nheader, section, footer {max-width: 900px;margin: 0 auto;padding: 4rem 1.5rem}\n.hero {padding-top: 5rem;border-bottom: 1px solid var(--gray-border)}\n.brand-sub {font-size: 0.9rem;text-transform: uppercase;letter-spacing: 2px;color: var(--accent-color);margin-bottom: 1rem;font-weight: 700}\nh1 {font-size: 3rem;font-weight: 800;letter-spacing: -1px;margin-bottom: 1.5rem;line-height: 1.2}\n.lead {font-size: 1.25krem;font-size: 1.25rem;color: var(--gray-text);margin-bottom: 3rem;max-width: 700px}\n.timeline {position: relative;padding-left: 2rem;border-left: 2px solid var(--accent-color);margin-top: 2rem}\n.timeline-item {position: relative;margin-bottom: 2.5rem}\n.timeline-item::before {content: \"\";position: absolute;left: -2.4rem;top: 0.4rem;width: 10px;height: 10px;background-color: var(--accent-color);border-radius: 50%}\n.timeline-time {font-size: 0.85rem;color: var(--accent-color);font-weight: 700;margin-bottom: 0.3rem}\n.timeline-title {font-size: 1.15rem;font-weight: 700;margin-bottom: 0.5rem}\nh2 {font-size: 2rem;font-weight: 700;margin-bottom: 2rem;letter-spacing: -0.5px}\n.card-container {display: flex;flex-direction: column;gap: 1.5rem}\n.card {background-color: var(--gray-light);padding: 2rem;border-left: 4px solid var(--accent-color);position: relative}\n.card h3 {font-size: 1.25rem;margin-bottom: 0.75rem}\n.card p {color: var(--gray-text);font-size: 0.95rem}\n.plans-section {border-top: 1px solid var(--gray-border)}\n.table-wrapper {overflow-x: auto}\ntable {width: 100%;border-collapse: collapse;text-align: left;margin-top: 1rem}\nth, td {padding: 1.2rem;border-bottom: 1px solid var(--gray-border);font-size: 0.95rem}\nth {font-weight: 700;background-color: var(--gray-light)}\ntd ul {list-style: none;padding: 0}\ntd ul li {margin-bottom: 0.4rem;color: var(--gray-text)}\n.highlight-col {border-top: 3px solid var(--accent-color);background-color: rgba(255, 85, 0, 0.02)}\n.faq-section {border-top: 1px solid var(--gray-border)}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n  h1 {font-size: 2.2rem}\n}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.5rem;color: var(--text-color)}\n.faq-item p {color: var(--gray-text);font-size: 0.95rem}\n.bottom-nav {position: fixed;bottom: 0;left: 0;width: 100%;background-color: var(--bg-color);border-top: 1px solid var(--gray-border);padding: 1rem 0;z-index: 100}\n.bottom-nav-content {max-width: 900px;margin: 0 auto;display: flex;justify-content: center;gap: 2rem;padding: 0 1.5rem;font-size: 0.9rem;font-weight: 600}\n.bottom-nav-content a:hover {color: var(--accent-color)}\nfooter.site-footer {text-align: center;color: var(--gray-text);font-size: 0.85rem;border-top: 1px solid var(--gray-border);padding: 3rem 1.5rem}\n</style><main>\n  <header class=\"hero\">\n    <div class=\"brand-sub\">一元机场 (sjakd) 专栏特辑</div>\n    <h1>一元机场(sjakd) · 连接世界的脉络，从理解数字基建开始</h1>\n    <p class=\"lead\">在信息流动的洪流中，每一次点击与呼叫都在重塑我们的工作边界。我们以专栏作家的严谨与洞察，为您梳理一元机场(sjakd)网络体系演进的每一个清晰刻度。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">阶段一 · 溯源</div>\n        <div class=\"timeline-title\">初探数字链路的物理边界</div>\n        <p>从本地终端到海外节点的每一次触达，均需经历复杂的路由计算。一元机场(sjakd)致力于剥离冗余损耗，还原高效而纯粹的数据传输本质。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">阶段二 · 构筑</div>\n        <div class=\"timeline-title\">多维节点的布局与调度哲学</div>\n        <p>我们不盲目追求数量的堆砌，而是通过精细化的线路区隔，让基础浏览、流畅影像与专业游戏加速各得其所，保障吞吐效率的稳健输出。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">阶段三 · 延伸</div>\n        <div class=\"timeline-title\">全场景生态的无缝融入</div>\n        <p>无论是移动终端还是多设备协同，一元机场(sjakd)持续打磨客户端兼容性与连接响应速度，使数字生活如臂使指。</p>\n      </div>\n    </div>\n  </header>\n\n  <section>\n    <h2>设计原则与核心架构</h2>\n    <div class=\"card-container\">\n      <div class=\"card\">\n        <h3>结构克制，拒绝冗余干扰</h3>\n        <p>我们深知清爽环境对于思考与高效操作的重要性。界面与引导流程均经过深度精简，确保您能够直奔核心诉求。</p>\n      </div>\n      <div class=\"card\">\n        <h3>多阶配置，匹配多元场景</h3>\n        <p>通过科学划分流量额度、终端在线上限及节点池深度，无论是轻量日常查阅还是高强度团队协作，皆有恰当方案可依。</p>\n      </div>\n      <div class=\"card\">\n        <h3>透明公开，保持长期稳定</h3>\n        <p>无隐性条款，无突发断崖。一元机场(sjakd)倡导契约精神，以稳定透明的运行表现回报每一位用户的长期信任。</p>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"plans-section\" id=\"plans\">\n    <h2>方案对比与订阅选择</h2>\n    <p>我们提供梯度分明的几种选项，您可以根据实际的流量消耗模型与多设备在线需求进行理性评估。</p>\n    \n    <div class=\"table-wrapper\">\n      <table>\n        <thead>\n          <tr>\n            <th>服务特性</th>\n            <th>基础版</th>\n            <th class=\"highlight-col\">旗舰版 (推荐)</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>月付价格</strong></td>\n            <td>¥15 / 月</td>\n            <td class=\"highlight-col\">¥35 / 月</td>\n            <td>¥85 / 月</td>\n          </tr>\n          <tr>\n            <td><strong>年付优惠</strong></td>\n            <td>¥150 / 年</td>\n            <td class=\"highlight-col\">¥350 / 年</td>\n            <td>¥850 / 年</td>\n          </tr>\n          <tr>\n            <td><strong>权益详情</strong></td>\n            <td>\n              <ul>\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n              </ul>\n            </td>\n            <td class=\"highlight-col\">\n              <ul>\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n              </ul>\n            </td>\n            <td>\n              <ul>\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n              </ul>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section class=\"faq-section\" id=\"faq\">\n    <h2>常见问题解析</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用一元机场(sjakd)？</h3>\n        <p>您只需注册账户并挑选符合自身需求的方案完成订阅，随后参照用户中心内提供的简明配置指南，即可在对应客户端导入节点开始使用。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐流量是如何计算与重置的？</h3>\n        <p>流量采用自然月或按订阅周期结算重置机制。在周期内未用完的流量不累计至下一周期，超出后可根据提示随时补充或升级方案。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些主流客户端设备？</h3>\n        <p>我们全面适配主流操作系统与常见客户端，您可在不同设备间灵活切换，满足多样化的移动办公与家庭网络环境需求。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接波动时应如何排查？</h3>\n        <p>建议首先检查本地网络连接状态，尝试更新订阅链接获取最新节点列表。若问题持续存在，可通过工单系统联系技术支持获得协助。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<nav class=\"bottom-nav\">\n  <div class=\"bottom-nav-content\">\n    <a href=\"#\">顶部返回</a>\n    <a href=\"#plans\">方案对比</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</nav>\n\n<footer class=\"site-footer\">\n  <p>© 一元机场(sjakd) 专栏作品. All rights reserved.</p>\n</footer>",
+          "hash": "ac9ffa755e4da839ff8349a3d7ef0d84aa69c79f5b418a6343d4e26272c04da1",
+          "seo": {
+            "title": "一元机场(sjakd) - 专栏叙事与数字网络构建",
+            "keywords": "一元机场,sjakd,网络连接,数字工具,专栏",
+            "description": "一元机场(sjakd)以专栏作者的细腻笔触，为您解构现代数字网络连接的构建过程，提供清晰可靠的方案与问答指引。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "9645",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "akivs.cn",
+    "host": "p-e20eac0d07.akivs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "dcba60cc879d9f386b215af204c46a875403094bf9e419ff8a6b942fa094d50a",
+    "sitemap.xml": "a0739fbde0b5ba2b5bb273494d396435a22eb68b39691b94785cea56448939f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e9c08d4322671fb83119278cd1b474c2b08e4bd3b1c53adb5662df4edca0bd0f",
+    "robots.txt": "d3cc95025a3ddcbde8ad32fd876d7b159b648507bc4b00dabecc2633b4a9558d",
+    "a63dd3096b7dbe82e0cd7773f3ebdead.txt": "c0d1eae52386e00f5fb8f7c78fe509de0d03f18bf6a08e104481a41519617aae"
+  },
+  "revision": "07537910ef8aa6323209732df3db92cb34c9adfccb18bb92b33c806e4bd12794"
+}
